@@ -57,11 +57,11 @@ The tables are joined through primary–foreign key relationships (orders → or
 
 ## Tools
 
-MySQL 
-Excel
-Canva
+- MySQL 
+- Excel
+- Canva
 
 ## Author
-Mohini Gupta 
-Email: mohinigupta2468@gmail.com
-[LinkedIn Profile] (https://www.linkedin.com/in/mohini-gupta2005/)
+- Mohini Gupta 
+- Email: mohinigupta2468@gmail.com
+- [LinkedIn Profile] (https://www.linkedin.com/in/mohini-gupta2005/)
